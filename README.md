@@ -1,2 +1,3 @@
 # fawry-internship-challenge
-A simple object-oriented e-commerce checkout system implemented in C++.
+To run the code, uncomment one of the test cases and run to see the result in the console.
+Run each test case by itself
